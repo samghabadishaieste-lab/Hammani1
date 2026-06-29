@@ -81,7 +81,7 @@
     <!-- صفحه شروع -->
     <div id="start-screen">
         <h1>بازی کلمات 🎈</h1>
-        <h2>آموزگار: <span class="teacher-name">شاییده صفی</span></h2>
+        <h2>آموزگار: <span class="teacher-name">شایسته صفی</span></h2>
         <p>سلام قهرمان! نام خود را بنویس:</p>
         <input type="text" id="student-name" placeholder="نام و نام خانوادگی">
         <br>
